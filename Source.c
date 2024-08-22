@@ -27,6 +27,7 @@ void printJoke(enum choice joke)
 {
 	printf("\nYour Joke:\n");
 	printf("----------\n");
+	printf("yes yes yes");
 	switch (joke)
 	{
 	case programming:
